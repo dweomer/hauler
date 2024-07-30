@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
-	github.com/containerd/containerd v1.7.11
+	github.com/containerd/containerd v1.7.12
 	github.com/distribution/distribution/v3 v3.0.0-20221208165359-362910506bc2
 	github.com/docker/go-metrics v0.0.1
 	github.com/google/go-containerregistry v0.16.1
@@ -21,7 +21,7 @@ require (
 	github.com/spf13/afero v1.10.0
 	github.com/spf13/cobra v1.8.0
 	golang.org/x/sync v0.6.0
-	helm.sh/helm/v3 v3.14.2
+	helm.sh/helm/v3 v3.14.3
 	k8s.io/apimachinery v0.29.0
 	k8s.io/client-go v0.29.0
 	oras.land/oras-go v1.2.5
@@ -54,7 +54,7 @@ require (
 	github.com/distribution/reference v0.5.0 // indirect
 	github.com/docker/cli v25.0.1+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker v25.0.5+incompatible // indirect
+	github.com/docker/docker v26.1.4+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/docker/go-connections v0.5.0 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
